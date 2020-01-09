@@ -4,17 +4,18 @@ Simple react todo app.
 
 ## Install
 
-* Node/NPM
-* Webpack
+> Node/NPM
+> Webpack
 
-* `npm install`
+`npm install`
 
 ## Running
 
 ### Dev
 
-* `npm run dev`
-* http://localhost:8080/
+`npm run dev`
+
+> http://localhost:8080/
 
 ### Prod
 
