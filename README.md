@@ -1,11 +1,11 @@
 # React Todo App
 
-Simple react todo app.
+Simple todo app with pure react.
 
 ## Install
 
-> Node/NPM
-> Webpack
+* Node/NPM
+* Webpack
 
 `npm install`
 
@@ -15,8 +15,8 @@ Simple react todo app.
 
 `npm run dev`
 
-> http://localhost:8080/
+Access http://localhost:8080/
 
 ### Prod
 
-* `npm run production`
+`npm run production`
